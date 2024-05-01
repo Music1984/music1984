@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Music!</h1>
+h1 align="center">Hi 👋, I'm Music!</h1>
 <h3 align="center">a plugin developer?</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=music1984&label=Profile%20views&color=0e75b6&style=flat" alt="music1984" /> </p>
@@ -13,6 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://discord.gg/_music" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_music" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,3 +25,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=music1984&" alt="music1984" /></p>
 
+Support 🙏
