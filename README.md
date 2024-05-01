@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Music!</h1>
+<h1 align="center">Hi 👋, I'm Music!</h1>
 <h3 align="center">a plugin developer?</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=music1984&label=Profile%20views&color=0e75b6&style=flat" alt="music1984" /> </p>
